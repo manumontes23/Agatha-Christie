@@ -1,0 +1,57 @@
+#imagen{
+   
+    position: relative;
+}
+#menu{
+        background: black;
+    list-style: none;
+    margin: 0xp auto;
+    color: white;
+    display: inline-block;  
+    width: 100%;
+    }
+#contenido{
+    float: right;
+}
+
+#menu a{
+    color: white;
+    text-decoration: none;
+    font-size: 150%;
+}
+#menu ul{
+    list-style-type: none;
+    display: block;
+    background: black;
+}
+#menu a:hover{
+    
+    color:red;
+   
+}
+body{
+    background: #F3DE87;
+    margin-top: 0%;
+   
+}
+#menu li{
+    display: inline-block;
+   text-align: center;
+   margin-left: 10px;
+}
+#preambulo{
+    text-align: center;
+    
+}
+#contenido{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#poirotimg{
+    position: relative;
+}
+
